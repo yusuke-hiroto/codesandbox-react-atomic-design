@@ -1,2 +1,2 @@
-# codesandbox-react-atomic-design
+# codesandbox-atomic-design
 Created with CodeSandbox
